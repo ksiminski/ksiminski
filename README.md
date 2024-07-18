@@ -1,4 +1,6 @@
-## Hi there 👋
+## Krzysztof Simiński
+
+[IPA](https://en.wikipedia.org/wiki/Help:IPA/Polish): [ˈkʂɘʂtɔf ɕiˈmiɲskʲi]
 
 <!--
 **ksiminski/ksiminski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
